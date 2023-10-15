@@ -7,8 +7,10 @@
 Thank you !!! <br><br>
 
   Some screenshots of the application :  <br><br>
-  ![Simulator Screenshot - iPhone 15 - 2023-10-15 at 22 10 43](https://github.com/Ojaspj/login-signupui-reactnative/assets/78263460/78688e6a-62ad-4923-b601-69c250661132)<br><br>![Simulator Screenshot - iPhone 15 - 2023-10-15 at 22 11 18](https://github.com/Ojaspj/login-signupui-reactnative/assets/78263460/70b217c5-6fc3-4e33-9a6d-cc954e522ccc)
- 
+  <img src ="https://github.com/Ojaspj/login-signupui-reactnative/assets/78263460/78688e6a-62ad-4923-b601-69c250661132" style="height:900px;">
+  <img src="https://github.com/Ojaspj/login-signupui-reactnative/assets/78263460/70b217c5-6fc3-4e33-9a6d-cc954e522ccc" 
+    style="height:900px;">
+  
 
   
 </h3>
